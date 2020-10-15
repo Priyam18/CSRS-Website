@@ -1,1 +1,3 @@
 # CSRS-Website
+Hello guys, We will build our own Website for Computer Science Research Society a.k.a CSRS... 
+So, Let's Build
